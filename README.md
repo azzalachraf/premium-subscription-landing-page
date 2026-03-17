@@ -21,11 +21,12 @@ The website focuses on helping users discover digital services and contact suppo
 
 ## Live Demo
 
+https://azzalachraf.github.io/premium-subscription-landing-page
+
 ## Preview
 
 ![Homepage](preview/homepage.png)
 
-https://azzalachraf.github.io/premium-subscription-landing-page
 
 ## Author
 
