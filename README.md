@@ -32,3 +32,12 @@ https://azzalachraf.github.io/premium-subscription-landing-page
 - JavaScript
 
 ## Project Structure
+
+
+## Purpose
+
+This project was created to practice building a **high-quality modern landing page with animations, responsive design, and clean UI structure**.
+
+## Author
+
+Achraf Azzal
