@@ -25,8 +25,7 @@ https://azzalachraf.github.io/premium-subscription-landing-page
 
 ## Preview
 
-![Homepage](preview/homepage.png)
-
+![Homepage](preview/Homepage.png)
 
 ## Author
 
