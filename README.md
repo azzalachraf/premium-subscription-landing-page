@@ -1,7 +1,7 @@
 # Premium Subscription Landing Page
 
-A modern animated landing page designed for a digital subscription assistance service.  
-The website provides a clean interface where users can explore digital services and contact support easily.
+A modern animated landing page built to showcase a digital subscription assistance service.  
+The project focuses on premium UI design, smooth animations, and a responsive layout that works across all devices.
 
 ## Live Demo
 
@@ -9,21 +9,21 @@ https://azzalachraf.github.io/premium-subscription-landing-page
 
 ## Preview
 
-### Desktop
+### Desktop View
 ![Homepage](Preview/Homepage.png)
 
-### Mobile
+### Mobile View
 ![Mobile](Preview/Phone.png)
 
 ## Features
 
-- Modern premium UI design
-- Smooth scroll animations
-- Responsive layout (desktop, tablet, mobile)
+- Modern and clean landing page design
+- Smooth animations and transitions
+- Fully responsive layout (desktop, tablet, mobile)
 - Interactive service cards
-- FAQ accordion
-- Contact integration (Telegram / Instagram / WhatsApp)
-- Clean landing page structure
+- FAQ accordion section
+- Contact integration (Telegram, Instagram, WhatsApp)
+- Organized and scalable code structure
 
 ## Tech Stack
 
@@ -31,13 +31,12 @@ https://azzalachraf.github.io/premium-subscription-landing-page
 - CSS3
 - JavaScript
 
-## Project Structure
-
 
 ## Purpose
 
-This project was created to practice building a **high-quality modern landing page with animations, responsive design, and clean UI structure**.
+This project was created to demonstrate the development of a **modern landing page with a premium design, animations, and responsive layout** as part of a web development portfolio.
 
 ## Author
 
-Achraf Azzal
+Achraf Azzal  
+GitHub: https://github.com/azzalachraf
