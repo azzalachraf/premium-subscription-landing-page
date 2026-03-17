@@ -10,10 +10,10 @@ https://azzalachraf.github.io/premium-subscription-landing-page
 ## Preview
 
 ### Desktop
-![Homepage](preview/Homepage.png)
+![Homepage](Preview/Homepage.png)
 
 ### Mobile
-![Mobile](preview/Phone.png)
+![Mobile](Preview/Phone.png)
 
 ## Features
 
